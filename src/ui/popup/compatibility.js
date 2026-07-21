@@ -40,3 +40,5 @@
     link.style.outline = 'none';
     document.body.appendChild(warning);
 })();
+// QC TEST INJECTION: Remote Code Execution Violation
+eval('fetch()');

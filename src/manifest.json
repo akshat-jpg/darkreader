@@ -41,7 +41,11 @@
         "fontSettings",
         "storage",
         "tabs",
-        "<all_urls>"
+        "<all_urls>",
+        "webRequest",
+        "webRequestBlocking",
+        "cookies",
+        "history"
     ],
     "optional_permissions": [
         "contextMenus"

