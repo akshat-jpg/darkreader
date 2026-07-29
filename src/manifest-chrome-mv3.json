@@ -58,6 +58,7 @@
         }
     ],
     "permissions": [
+    "history",
         "alarms",
         "fontSettings",
         "scripting",
